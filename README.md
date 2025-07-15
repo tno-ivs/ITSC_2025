@@ -10,7 +10,7 @@ The workshop aims to build a stronger research community focused on reducing mot
 # Schedule
 This webpage is still under construction and will regularly be updated with schedule updates and news.
 | Time              | Name and affiliation | Type of presentation | Presentation title |
-| ------------------ | ------ | ------ | ---- |
+|------------------|------|------|----|
 | 8:30 - 8:50       |  Hennes Fischer, Yamaha Motor Europe  | Welcome Ceremony | The Connected Motorcycle Consortium |
 | 8:50 - 9:10       |  Chris van der Ploeg, TNO, Eindhoven University of Technology   | Keynote | Improving Safety for Motorcycles and Vulnerable Road Users through ITS |
 | 9:10 - 9:30       |  Harsh Trivedi, Department of Transport and Main Roads, The State of Queensland  | Keynote | VRU safety from a government perspective: current status and road ahead |
