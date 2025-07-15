@@ -15,7 +15,7 @@ This webpage is still under construction and will regularly be updated with sche
 | 8:50 - 9:10       |  Chris van der Ploeg, TNO, Eindhoven University of Technology   | Keynote | Improving Safety for Motorcycles and Vulnerable Road Users through ITS |
 | 9:10 - 9:30       |  Harsh Trivedi, Department of Transport and Main Roads, The State of Queensland  | Keynote | VRU safety from a government perspective: current status and road ahead |
 | 9:30 - 9:50       |  Sebastian Will, Würzburg Institute for Traffic Sciences (WIVW)  | Keynote | Advancing Rider Safety: The Role of Human Factors Research in the Connected Motorcycle Consortium |
-| 9:50 - 10:10      |  Tbd   | | Tbd |
+| 9:50 - 10:10      |  Tbd   | Tbd | Tbd |
 | 10:10 - 10:40     |  Break   | N/A | Tbd |
 | 10:40 - 11:00     |  Simone Di Piazza, Ducati Motor Holding | Keynote | Ducati and safety: how this important topic was addressed and what are the future challenges |
 | 11:00 - 11:20     |  Erik van Vulpen, La Trobe University Centre or Technology Infusion | Keynote | Putting it into practice. Results of the largest trial with riders to date. What will drive future adoption? |
