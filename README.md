@@ -25,3 +25,4 @@ This webpage is still under construction and will regularly be updated with sche
 | 11:40 - 12:00  | Tbd                                                                 | Tbd                 | Tbd                                                                                                              
 | 12:00 - 12:30  | Chris van der Ploeg, Simone di Piazza, Sebastian Will, Erik van Vulpen, Harsh Trivedi | Panel discussion     | Bridging the Gap Between Vehicle Automation and Powered Two-Wheelers                                             
 
+Please get in touch with chris.vanderploeg@tno.nl for questions.
