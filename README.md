@@ -21,7 +21,7 @@ This webpage is still under construction and will regularly be updated with sche
 | 10:10 - 10:40  | Break                                                               | N/A                 | Tbd                                                                                                              
 | 10:40 - 11:00  | Simone Di Piazza, Ducati Motor Holding                              | Keynote             | Ducati and safety: how this important topic was addressed and what are the future challenges                    
 | 11:00 - 11:20  | Erik van Vulpen, La Trobe University Centre for Technology Infusion | Keynote             | Putting it into practice. Results of the largest trial with riders to date. What will drive future improvements? 
-| 11:20 - 11:40  | Tbd                                                                 | Tbd                 | Tbd                                                                                                              
+| 11:20 - 11:40  | Pedro Vieira Oliveira, TNO Integrated Vehicle Safety                | Keynote             | Cooperative perception and localization for the protection of vulnerable road users                                                                   
 | 11:40 - 12:00  | Tbd                                                                 | Tbd                 | Tbd                                                                                                              
 | 12:00 - 12:30  | Chris van der Ploeg, Simone di Piazza, Sebastian Will, Erik van Vulpen, Harsh Trivedi | Panel discussion     | Bridging the Gap Between Vehicle Automation and Powered Two-Wheelers                                             
 
